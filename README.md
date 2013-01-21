@@ -1,4 +1,2 @@
-linguago.github.com
+interprete.com.ua
 ===================
-
-test commit
