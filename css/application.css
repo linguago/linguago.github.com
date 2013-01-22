@@ -1,0 +1,8 @@
+ul.list > li {
+  list-style: none;
+}
+
+ul.list > li:before {
+  content: '\2014\a0';
+}
+
