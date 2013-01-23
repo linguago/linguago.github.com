@@ -5,6 +5,7 @@ ul.list > li {
 ul.list > li:before {
   content: '\2014\a0';
 }
+
 section {
   padding-top: 30px;
 }
